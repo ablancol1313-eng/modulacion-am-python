@@ -1,0 +1,5 @@
+Escenario,RMSE_mensaje_sin_AGC,Relacion_potencia_ideal_error_dB
+Ideal,0.0000,147.94
+Ruido,0.0871,11.02
+Atenuación,0.7970,6.02
+Distorsión,0.6805,6.87
